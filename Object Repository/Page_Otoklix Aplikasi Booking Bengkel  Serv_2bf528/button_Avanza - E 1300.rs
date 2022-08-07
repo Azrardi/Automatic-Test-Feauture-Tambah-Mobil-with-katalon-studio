@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Avanza - E 1300</name>
+   <tag></tag>
+   <elementGuidId>dd0f7233-450d-44b2-bdcc-509b1865c763</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@value='2201']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.car-item.select-search__option</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c34bad45-cbf8-477d-8687-55fc17472476</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>942e2402-bd12-4072-945b-bed7dd0e71a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>2201</value>
+      <webElementGuid>7fe79ad9-55fc-4271-80d2-74e2211d8cfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>car-item select-search__option</value>
+      <webElementGuid>a7cf9733-d25e-4d92-abb0-2b2b266caaf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Avanza - E 1300</value>
+      <webElementGuid>f656188a-c28e-44e2-82dd-545d687c34dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;&quot;]/body[@class=&quot;modal-open&quot;]/div[3]/div[1]/div[@class=&quot;modal fade show&quot;]/div[@class=&quot;modal-dialog wrapper wrapper-xs modal-no-shadow&quot;]/div[@class=&quot;modal-content mobile&quot;]/div[@class=&quot;p-0 modal-body&quot;]/div[@class=&quot;wrapper-content container&quot;]/div[@class=&quot;mb-3&quot;]/div[@class=&quot;position-relative&quot;]/div[@class=&quot;select-search select-search--vehicle has-focus&quot;]/div[@class=&quot;select-search__select&quot;]/ul[@class=&quot;select-search__options&quot;]/li[@class=&quot;select-search__row&quot;]/button[@class=&quot;car-item select-search__option&quot;]</value>
+      <webElementGuid>8ba14b32-be39-431a-8774-83866214c7ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@value='2201']</value>
+      <webElementGuid>9d60041b-9cd0-4e0f-90f5-4a9e7f79bde1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari Mobil Kamu'])[1]/following::button[1]</value>
+      <webElementGuid>62441432-dd11-4c51-a387-a3bca3e7a069</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobilku'])[2]/following::button[1]</value>
+      <webElementGuid>f630d78a-b688-4795-8c8d-39eda1897f92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Avanza - G 1300'])[1]/preceding::button[1]</value>
+      <webElementGuid>7fc76c89-fa8a-425a-a69d-aed8dc631555</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div[2]/div[2]/div/div/div/div[2]/ul/li/button</value>
+      <webElementGuid>b755338e-afd6-486e-a95d-ec907e998bfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Avanza - E 1300' or . = 'Avanza - E 1300')]</value>
+      <webElementGuid>18d8ee7c-0b88-4ba9-a838-0b2fb9ba6d5e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
